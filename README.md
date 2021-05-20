@@ -1,2 +1,2 @@
 # todoapp
-Task planner written in python django
+Task planner api written in python django
